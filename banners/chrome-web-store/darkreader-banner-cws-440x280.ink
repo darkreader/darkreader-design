@@ -2,7 +2,7 @@
  "name": "darkreader-banner-cws-440x280",
  "width": "440",
  "height": "280",
- "currentLayer": "6718",
+ "currentLayer": "494",
  "selectedElements": [],
  "layers": [
   {
@@ -41,14 +41,14 @@
       "S"
      ],
      "doc-model": "Curve",
-     "doc-model-id": "6680"
+     "doc-model-id": "455"
     }
    ],
    "isExpanded": true,
    "locked": false,
    "hidden": false,
    "doc-model": "Layer",
-   "doc-model-id": "6681"
+   "doc-model-id": "456"
   },
   {
    "name": "Content",
@@ -446,7 +446,7 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6682"
+       "doc-model-id": "1567"
       },
       {
        "name": "Type",
@@ -709,12 +709,12 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6683"
+       "doc-model-id": "1568"
       }
      ],
      "isExpanded": true,
      "doc-model": "Group",
-     "doc-model-id": "6684"
+     "doc-model-id": "1569"
     },
     {
      "name": "Mascot",
@@ -768,7 +768,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6685"
+       "doc-model-id": "1570"
       },
       {
        "name": "Curve",
@@ -843,12 +843,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6686"
+       "doc-model-id": "1571"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -898,7 +898,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6687"
+       "doc-model-id": "1572"
       },
       {
        "name": "Curve",
@@ -997,12 +997,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6688"
+       "doc-model-id": "1573"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1052,7 +1052,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6689"
+       "doc-model-id": "1574"
       },
       {
        "name": "Curve",
@@ -1139,12 +1139,12 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6690"
+       "doc-model-id": "1575"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1194,12 +1194,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6691"
+       "doc-model-id": "1576"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1253,12 +1253,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6692"
+       "doc-model-id": "1577"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1304,12 +1304,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6693"
+       "doc-model-id": "1578"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1355,12 +1355,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6694"
+       "doc-model-id": "1579"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1406,12 +1406,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6695"
+       "doc-model-id": "1580"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1457,7 +1457,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6696"
+       "doc-model-id": "1581"
       },
       {
        "name": "Curve",
@@ -1536,7 +1536,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6697"
+       "doc-model-id": "1582"
       },
       {
        "name": "Curve",
@@ -1615,7 +1615,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6698"
+       "doc-model-id": "1583"
       },
       {
        "name": "Curve",
@@ -1650,7 +1650,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6699"
+       "doc-model-id": "1584"
       },
       {
        "name": "Curve",
@@ -1685,7 +1685,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6700"
+       "doc-model-id": "1585"
       },
       {
        "name": "Curve",
@@ -1728,7 +1728,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6701"
+       "doc-model-id": "1586"
       },
       {
        "name": "Curve",
@@ -1788,7 +1788,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6702"
+       "doc-model-id": "1587"
       },
       {
        "name": "Curve",
@@ -1848,7 +1848,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6703"
+       "doc-model-id": "1588"
       },
       {
        "name": "Curve",
@@ -1891,7 +1891,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6704"
+       "doc-model-id": "1589"
       },
       {
        "name": "Curve",
@@ -1934,7 +1934,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6705"
+       "doc-model-id": "1590"
       },
       {
        "name": "Curve",
@@ -1985,7 +1985,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6706"
+       "doc-model-id": "1591"
       },
       {
        "name": "Curve",
@@ -2032,7 +2032,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6707"
+       "doc-model-id": "1592"
       },
       {
        "name": "Curve",
@@ -2091,7 +2091,7 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6708"
+       "doc-model-id": "1593"
       },
       {
        "name": "Curve",
@@ -2150,7 +2150,7 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6709"
+       "doc-model-id": "1594"
       },
       {
        "name": "Curve",
@@ -2209,7 +2209,7 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6710"
+       "doc-model-id": "1595"
       },
       {
        "name": "Curve",
@@ -2284,12 +2284,12 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6711"
+       "doc-model-id": "1596"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -2335,7 +2335,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6712"
+       "doc-model-id": "1597"
       },
       {
        "name": "Curve",
@@ -2378,27 +2378,27 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6713"
+       "doc-model-id": "1598"
       }
      ],
      "isExpanded": false,
      "doc-model": "Group",
-     "doc-model-id": "6714"
+     "doc-model-id": "1599"
     }
    ],
    "isExpanded": true,
    "locked": false,
    "hidden": false,
    "doc-model": "Layer",
-   "doc-model-id": "6715"
+   "doc-model-id": "490"
   },
   {
    "name": "Screen",
    "children": [
     {
-     "name": "Text",
+     "name": "Curve",
      "fill": {
-      "color": "rgb(83,161,179)",
+      "color": "rgb(49,110,125)",
       "gradient": null,
       "doc-model": "ObservableObject"
      },
@@ -2408,24 +2408,32 @@
       "doc-model": "ObservableObject"
      },
      "opacity": 1,
-     "x": 243.24868385615136,
-     "y": 228.48354194773296,
-     "content": "FOR ALL WEBSITES",
-     "font": {
-      "family": "Open Sans",
-      "weight": 400,
-      "size": 20.52979492708579,
-      "isItalic": false,
-      "anchor": "start",
-      "doc-model": "ObservableObject"
-     },
-     "doc-model": "Text",
-     "doc-model-id": "6716"
+     "path": [
+      "P",
+      "c",
+      245.99999999999986,
+      162.00000000000003,
+      "S",
+      "c",
+      421.57142857142856,
+      162.00000000000003,
+      "S",
+      "c",
+      421.57142857142856,
+      230,
+      "S",
+      "c",
+      245.99999999999986,
+      230,
+      "S"
+     ],
+     "doc-model": "Curve",
+     "doc-model-id": "1600"
     },
     {
      "name": "Text",
      "fill": {
-      "color": "rgb(83,161,179)",
+      "color": "rgb(255,255,255)",
       "gradient": null,
       "doc-model": "ObservableObject"
      },
@@ -2435,34 +2443,59 @@
       "doc-model": "ObservableObject"
      },
      "opacity": 1,
-     "x": 242.01106061595954,
-     "y": 198.66590224732118,
-     "content": "DARK MODE",
+     "x": 255.1066880141138,
+     "y": 218.5734464964465,
+     "content": "FOR ALL WEBSITES",
      "font": {
       "family": "Open Sans",
-      "weight": 300,
-      "size": 32.2061356824531,
+      "weight": 400,
+      "size": 18.25879944501449,
       "isItalic": false,
       "anchor": "start",
       "doc-model": "ObservableObject"
      },
      "doc-model": "Text",
-     "doc-model-id": "6717"
+     "doc-model-id": "1601"
+    },
+    {
+     "name": "Text",
+     "fill": {
+      "color": "rgb(255,255,255)",
+      "gradient": null,
+      "doc-model": "ObservableObject"
+     },
+     "stroke": {
+      "color": "transparent",
+      "width": 2,
+      "doc-model": "ObservableObject"
+     },
+     "opacity": 1,
+     "x": 254.00576660465057,
+     "y": 193.33375660444156,
+     "content": "DARK MODE",
+     "font": {
+      "family": "Open Sans",
+      "weight": 400,
+      "size": 27.667508261367324,
+      "isItalic": false,
+      "anchor": "start",
+      "doc-model": "ObservableObject"
+     },
+     "doc-model": "Text",
+     "doc-model-id": "1602"
     }
    ],
    "isExpanded": true,
    "locked": false,
    "hidden": false,
    "doc-model": "Layer",
-   "doc-model-id": "6718"
+   "doc-model-id": "494"
   }
  ],
  "rulers": [],
  "colors": [
-  "rgb(0,0,0)",
   "rgb(20,30,36)",
-  "rgb(47,116,133)",
-  "rgb(83,161,179)",
+  "rgb(49,110,125)",
   "rgb(139,188,199)",
   "rgb(255,255,255)",
   "rgb(233,108,76)"
@@ -2486,5 +2519,5 @@
  },
  "hideOverflow": true,
  "doc-model": "Document",
- "doc-model-id": "8C45FA5B298EEBCCF27F8978C3C55A79:darkreader-banner-cws-440x280.ink"
+ "doc-model-id": "7F92AD67D3D28CD1C03A0A165F483B0A:darkreader-banner-cws-440x280.ink"
 }

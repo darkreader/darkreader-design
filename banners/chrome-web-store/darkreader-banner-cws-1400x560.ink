@@ -2,7 +2,7 @@
  "name": "darkreader-banner-cws-1400x560",
  "width": "1400",
  "height": "560",
- "currentLayer": "6051",
+ "currentLayer": "1683",
  "selectedElements": [],
  "layers": [
   {
@@ -41,14 +41,14 @@
       "S"
      ],
      "doc-model": "Curve",
-     "doc-model-id": "6011"
+     "doc-model-id": "1643"
     }
    ],
    "isExpanded": true,
    "locked": true,
    "hidden": false,
    "doc-model": "Layer",
-   "doc-model-id": "6012"
+   "doc-model-id": "1644"
   },
   {
    "name": "Content",
@@ -688,7 +688,7 @@
       "S"
      ],
      "doc-model": "Curve",
-     "doc-model-id": "6013"
+     "doc-model-id": "1645"
     },
     {
      "name": "Mascot",
@@ -742,7 +742,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6014"
+       "doc-model-id": "1646"
       },
       {
        "name": "Curve",
@@ -817,12 +817,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6015"
+       "doc-model-id": "1647"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -872,7 +872,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6016"
+       "doc-model-id": "1648"
       },
       {
        "name": "Curve",
@@ -971,12 +971,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6017"
+       "doc-model-id": "1649"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1026,7 +1026,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6018"
+       "doc-model-id": "1650"
       },
       {
        "name": "Curve",
@@ -1113,12 +1113,12 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6019"
+       "doc-model-id": "1651"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1168,12 +1168,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6020"
+       "doc-model-id": "1652"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1227,12 +1227,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6021"
+       "doc-model-id": "1653"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1278,12 +1278,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6022"
+       "doc-model-id": "1654"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1329,12 +1329,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6023"
+       "doc-model-id": "1655"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1380,12 +1380,12 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6024"
+       "doc-model-id": "1656"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -1431,7 +1431,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6025"
+       "doc-model-id": "1657"
       },
       {
        "name": "Curve",
@@ -1510,7 +1510,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6026"
+       "doc-model-id": "1658"
       },
       {
        "name": "Curve",
@@ -1589,7 +1589,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6027"
+       "doc-model-id": "1659"
       },
       {
        "name": "Curve",
@@ -1624,7 +1624,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6028"
+       "doc-model-id": "1660"
       },
       {
        "name": "Curve",
@@ -1659,7 +1659,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6029"
+       "doc-model-id": "1661"
       },
       {
        "name": "Curve",
@@ -1702,7 +1702,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6030"
+       "doc-model-id": "1662"
       },
       {
        "name": "Curve",
@@ -1762,7 +1762,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6031"
+       "doc-model-id": "1663"
       },
       {
        "name": "Curve",
@@ -1822,7 +1822,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6032"
+       "doc-model-id": "1664"
       },
       {
        "name": "Curve",
@@ -1865,7 +1865,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6033"
+       "doc-model-id": "1665"
       },
       {
        "name": "Curve",
@@ -1908,7 +1908,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6034"
+       "doc-model-id": "1666"
       },
       {
        "name": "Curve",
@@ -1959,7 +1959,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6035"
+       "doc-model-id": "1667"
       },
       {
        "name": "Curve",
@@ -2006,7 +2006,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6036"
+       "doc-model-id": "1668"
       },
       {
        "name": "Curve",
@@ -2065,7 +2065,7 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6037"
+       "doc-model-id": "1669"
       },
       {
        "name": "Curve",
@@ -2124,7 +2124,7 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6038"
+       "doc-model-id": "1670"
       },
       {
        "name": "Curve",
@@ -2183,7 +2183,7 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6039"
+       "doc-model-id": "1671"
       },
       {
        "name": "Curve",
@@ -2258,12 +2258,12 @@
         "S"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6040"
+       "doc-model-id": "1672"
       },
       {
        "name": "Curve",
        "fill": {
-        "color": "rgb(47,116,133)",
+        "color": "rgb(49,110,125)",
         "gradient": null,
         "doc-model": "ObservableObject"
        },
@@ -2309,7 +2309,7 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6041"
+       "doc-model-id": "1673"
       },
       {
        "name": "Curve",
@@ -2352,19 +2352,19 @@
         "C"
        ],
        "doc-model": "Curve",
-       "doc-model-id": "6042"
+       "doc-model-id": "1674"
       }
      ],
      "isExpanded": false,
      "doc-model": "Group",
-     "doc-model-id": "6043"
+     "doc-model-id": "1675"
     }
    ],
    "isExpanded": true,
    "locked": false,
    "hidden": false,
    "doc-model": "Layer",
-   "doc-model-id": "6044"
+   "doc-model-id": "1676"
   },
   {
    "name": "Screen",
@@ -2435,14 +2435,13 @@
       "S"
      ],
      "doc-model": "Curve",
-     "doc-model-id": "6045"
+     "doc-model-id": "1677"
     },
     {
      "name": "Curve",
      "fill": {
       "color": "rgb(20,30,36)",
       "gradient": {
-       "type": "linear",
        "start": {
         "x": 1025.5,
         "y": 275.000291849875,
@@ -2453,6 +2452,7 @@
         "y": 757.0149336708697,
         "doc-model": "ObservableObject"
        },
+       "type": "linear",
        "stops": [
         {
          "offset": 0,
@@ -2461,7 +2461,7 @@
         },
         {
          "offset": 1,
-         "color": "rgb(47,116,133)",
+         "color": "rgb(49,110,125)",
          "doc-model": "ObservableObject"
         }
        ],
@@ -2503,12 +2503,12 @@
       "S"
      ],
      "doc-model": "Curve",
-     "doc-model-id": "6046"
+     "doc-model-id": "1678"
     },
     {
      "name": "Curve",
      "fill": {
-      "color": "rgb(20,30,36)",
+      "color": "rgb(0,0,0)",
       "gradient": null,
       "doc-model": "ObservableObject"
      },
@@ -2538,7 +2538,7 @@
       "S"
      ],
      "doc-model": "Curve",
-     "doc-model-id": "6047"
+     "doc-model-id": "1679"
     },
     {
      "name": "Curve",
@@ -2547,13 +2547,13 @@
       "gradient": {
        "type": "linear",
        "start": {
-        "x": 1044,
-        "y": 317.9999999999999,
+        "x": 1046,
+        "y": 324.99893145766333,
         "doc-model": "ObservableObject"
        },
        "end": {
-        "x": 1044,
-        "y": 548.9999999999997,
+        "x": 1046,
+        "y": 549.898001379279,
         "doc-model": "ObservableObject"
        },
        "stops": [
@@ -2564,7 +2564,7 @@
         },
         {
          "offset": 1,
-         "color": "transparent",
+         "color": "rgb(20,30,36)",
          "doc-model": "ObservableObject"
         }
        ],
@@ -2581,24 +2581,24 @@
      "path": [
       "P",
       "c",
-      666,
-      318.0010975291264,
+      670.0000000000001,
+      325,
       "S",
       "c",
       1422,
-      318.0010975291264,
+      325,
       "S",
       "c",
       1422,
-      583,
+      583.0000289867901,
       "S",
       "c",
-      666,
+      670.0000000000001,
       583.0010975291266,
       "S"
      ],
      "doc-model": "Curve",
-     "doc-model-id": "6048"
+     "doc-model-id": "1680"
     },
     {
      "name": "Text",
@@ -2625,12 +2625,12 @@
       "doc-model": "ObservableObject"
      },
      "doc-model": "Text",
-     "doc-model-id": "6049"
+     "doc-model-id": "1681"
     },
     {
      "name": "Text",
      "fill": {
-      "color": "rgb(83,161,179)",
+      "color": "rgb(83,161,181)",
       "gradient": null,
       "doc-model": "ObservableObject"
      },
@@ -2652,26 +2652,25 @@
       "doc-model": "ObservableObject"
      },
      "doc-model": "Text",
-     "doc-model-id": "6050"
+     "doc-model-id": "1682"
     }
    ],
    "isExpanded": true,
    "locked": false,
    "hidden": false,
    "doc-model": "Layer",
-   "doc-model-id": "6051"
+   "doc-model-id": "1683"
   }
  ],
  "rulers": [],
  "colors": [
   "rgb(0,0,0)",
   "rgb(20,30,36)",
-  "rgb(47,116,133)",
-  "rgb(83,161,179)",
+  "rgb(49,110,125)",
+  "rgb(83,161,181)",
   "rgb(139,188,199)",
   "rgb(255,255,255)",
-  "rgb(233,108,76)",
-  "rgb(221,139,79)"
+  "rgb(233,108,76)"
  ],
  "defaultFill": {
   "color": "rgb(20,30,36)",
@@ -2692,5 +2691,5 @@
  },
  "hideOverflow": true,
  "doc-model": "Document",
- "doc-model-id": "E26ABFEF0FA775C8E671620B204FC5BC:darkreader-banner-cws-1400x560.ink"
+ "doc-model-id": "2D066F18A42D94FF91FDA0ED5127916F:darkreader-banner-cws-1400x560.ink"
 }
